@@ -7,6 +7,10 @@
 //
 
 #include <iostream>
+#include "Map.hpp"
+#include "LogicalAgent.hpp"
+#include "QLearningAgent.hpp"
+using namespace std;
 
 int main(int argc, const char * argv[]) {
     // insert code here...

@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		E4A8168023A9D9780094DDC6 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4A8167F23A9D9780094DDC6 /* main.cpp */; };
+		E4A8168823A9DA8A0094DDC6 /* Map.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4A8168623A9DA8A0094DDC6 /* Map.cpp */; };
+		E4A8168B23A9DAA00094DDC6 /* LogicalAgent.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4A8168923A9DAA00094DDC6 /* LogicalAgent.cpp */; };
+		E4A8168E23A9DAAD0094DDC6 /* QLearningAgent.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4A8168C23A9DAAD0094DDC6 /* QLearningAgent.cpp */; };
+		E4A8169123A9DD680094DDC6 /* Other.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4A8168F23A9DD680094DDC6 /* Other.cpp */; };
+		E4A8169423A9E1440094DDC6 /* Agent.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4A8169223A9E1440094DDC6 /* Agent.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +30,16 @@
 /* Begin PBXFileReference section */
 		E4A8167C23A9D9780094DDC6 /* WumpusWorld */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = WumpusWorld; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4A8167F23A9D9780094DDC6 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		E4A8168623A9DA8A0094DDC6 /* Map.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Map.cpp; sourceTree = "<group>"; };
+		E4A8168723A9DA8A0094DDC6 /* Map.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Map.hpp; sourceTree = "<group>"; };
+		E4A8168923A9DAA00094DDC6 /* LogicalAgent.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = LogicalAgent.cpp; sourceTree = "<group>"; };
+		E4A8168A23A9DAA00094DDC6 /* LogicalAgent.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LogicalAgent.hpp; sourceTree = "<group>"; };
+		E4A8168C23A9DAAD0094DDC6 /* QLearningAgent.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = QLearningAgent.cpp; sourceTree = "<group>"; };
+		E4A8168D23A9DAAD0094DDC6 /* QLearningAgent.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = QLearningAgent.hpp; sourceTree = "<group>"; };
+		E4A8168F23A9DD680094DDC6 /* Other.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Other.cpp; sourceTree = "<group>"; };
+		E4A8169023A9DD680094DDC6 /* Other.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Other.hpp; sourceTree = "<group>"; };
+		E4A8169223A9E1440094DDC6 /* Agent.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Agent.cpp; sourceTree = "<group>"; };
+		E4A8169323A9E1440094DDC6 /* Agent.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Agent.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +73,16 @@
 			isa = PBXGroup;
 			children = (
 				E4A8167F23A9D9780094DDC6 /* main.cpp */,
+				E4A8168F23A9DD680094DDC6 /* Other.cpp */,
+				E4A8169023A9DD680094DDC6 /* Other.hpp */,
+				E4A8168923A9DAA00094DDC6 /* LogicalAgent.cpp */,
+				E4A8168A23A9DAA00094DDC6 /* LogicalAgent.hpp */,
+				E4A8168C23A9DAAD0094DDC6 /* QLearningAgent.cpp */,
+				E4A8168D23A9DAAD0094DDC6 /* QLearningAgent.hpp */,
+				E4A8168623A9DA8A0094DDC6 /* Map.cpp */,
+				E4A8168723A9DA8A0094DDC6 /* Map.hpp */,
+				E4A8169223A9E1440094DDC6 /* Agent.cpp */,
+				E4A8169323A9E1440094DDC6 /* Agent.hpp */,
 			);
 			path = WumpusWorld;
 			sourceTree = "<group>";
@@ -118,7 +143,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4A8168823A9DA8A0094DDC6 /* Map.cpp in Sources */,
+				E4A8168B23A9DAA00094DDC6 /* LogicalAgent.cpp in Sources */,
 				E4A8168023A9D9780094DDC6 /* main.cpp in Sources */,
+				E4A8169423A9E1440094DDC6 /* Agent.cpp in Sources */,
+				E4A8168E23A9DAAD0094DDC6 /* QLearningAgent.cpp in Sources */,
+				E4A8169123A9DD680094DDC6 /* Other.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
