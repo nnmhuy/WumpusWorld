@@ -13,9 +13,14 @@
 #include "Agent.hpp"
 
 class LogicalAgent : public Agent {
-    
+
 public:
     void makeMove();
+    void informW(bool state, int x, int y);
+    void informP(bool state, int x, int y);
+    void informB(bool state, int x, int y);
+    void informS(bool state, int x, int y);
+    void informG(bool state, int x, int y);
 };
 
 #endif /* LogicalAgent_hpp */

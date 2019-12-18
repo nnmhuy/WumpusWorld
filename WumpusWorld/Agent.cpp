@@ -14,6 +14,11 @@ Agent::Agent(Coordinate startCoordinate, int mapSize) {
     moveLeft = 150;
     currentDirection = 2;
     this->mapSize = mapSize;
+
+    // set up visited
+    for (int i=0; i<=mapSize; i++)
+        for (int j=0; j<=mapSize; j++)
+            visited[i][j] = false;
 }
 
 
