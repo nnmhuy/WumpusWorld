@@ -7,3 +7,7 @@
 //
 
 #include "Other.hpp"
+
+string Logger::mFilename = "result.txt";
+Logger* Logger::mThis = NULL;
+ofstream Logger::out;

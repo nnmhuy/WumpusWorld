@@ -10,5 +10,20 @@
 
 
 void LogicalAgent::makeMove() {
-    
+
+}
+void LogicalAgent::informB(bool state, int x, int y) {
+
+}
+void LogicalAgent::informS(bool state, int x, int y) {
+
+}
+void LogicalAgent::informW(bool state, int x, int y) {
+
+}
+void LogicalAgent::informP(bool state, int x, int y) {
+
+}
+void LogicalAgent::informG(bool state, int x, int y) {
+
 }

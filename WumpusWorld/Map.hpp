@@ -20,6 +20,7 @@ class Map {
     Room m[MAX_MAP_SIZE + 1][MAX_MAP_SIZE + 1];
 public:
     int mapSize;
+    Coordinate startPoint;
     void readMap(string filename);
     void printMap();
     Room goToRoom(Coordinate p) {

@@ -24,6 +24,7 @@ class Agent {
     int point, moveLeft;
     int currentDirection; // 0123 -> LURD
     Room m[MAX_MAP_SIZE + 1][MAX_MAP_SIZE + 1];
+    bool visited[MAX_MAP_SIZE+1][MAX_MAP_SIZE+1];
 public:
     Agent(Coordinate startCoordinate, int mapSize);
     virtual void makeMove() = 0;
