@@ -8,12 +8,13 @@
 
 #include "Agent.hpp"
 
-Agent::Agent(Coordinate startCoordinate, int mapSize) {
+Agent::Agent(Coordinate startCoordinate, int mapSize, Map *pMap) {
     p = startCoordinate;
     point = 0;
     moveLeft = 150;
     currentDirection = 2;
     this->mapSize = mapSize;
+    this->pMap = pMap;
 
     // set up visited
     for (int i=0; i<=mapSize; i++)
@@ -23,22 +24,40 @@ Agent::Agent(Coordinate startCoordinate, int mapSize) {
 
 
 Room Agent::go() {
-    cout << "FORWARD" << "\n";
     --moveLeft;
     p.x += forwardX[currentDirection];
     p.y += forwardY[currentDirection];
+    output->println("FORWARD (Enter Room " + p.stringify() + " )");
+    visited[p.x][p.y] = true;
     // interact with map
-    Room newRoom; // get data from map
+    Room newRoom = pMap->goToRoom(p); // get data from map
     if (newRoom.G) point += 100;
     if (newRoom.P || newRoom.W) {
         point -= 10000;
         moveLeft = -1; // die
     }
+    pMap->takeGold(p);
     return newRoom;
 }
 
+Room Agent::goTo(Coordinate finalPoint) {
+    Coordinate newPosition; int i;
+    for (i=0; i<4; i++) {
+        newPosition.x = p.x + forwardX[i];
+        newPosition.y = p.y + forwardY[i];
+        if (newPosition.x == finalPoint.x && newPosition.y == finalPoint.y) break;
+    }
+    int countRight = (i - currentDirection + 4) % 4;
+    if (countRight == 3) {
+        turn(true);
+    } else {
+        for (int j=1; j<=countRight; j++) turn(false);
+    }
+
+}
+
 void Agent::shot() {
-    cout << "SHOT" << "\n";
+    output->println("SHOT");
     Coordinate shotCoordinate;
     shotCoordinate.x = p.x + forwardX[currentDirection];
     shotCoordinate.y = p.y + forwardY[currentDirection];
@@ -47,11 +66,17 @@ void Agent::shot() {
 
 void Agent::turn(bool isLeft) {
     if (isLeft) {
-        cout << "TURN_LEFT" << "\n";
+        output->println("TURN_LEFT");
         currentDirection -= 1;
     } else {
-        cout << "TURN_RIGHT" << "\n";
+        output->println("TURN_RIGHT");
         currentDirection += 1;
     }
     currentDirection = (currentDirection + 4) % 4;
+}
+
+bool Agent::validIndex(Coordinate x) {
+    if (x.x < 1 && x.x > mapSize) return false;
+    if (x.y < 1 && x.y > mapSize) return false;
+    return true;
 }

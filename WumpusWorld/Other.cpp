@@ -11,3 +11,10 @@
 string Logger::mFilename = "result.txt";
 Logger* Logger::mThis = NULL;
 ofstream Logger::out;
+Logger* Logger::getLogger(){
+    if (mThis == NULL){
+        mThis = new Logger();
+        out.open(mFilename.c_str(), ios::out);
+    }
+    return mThis;
+}

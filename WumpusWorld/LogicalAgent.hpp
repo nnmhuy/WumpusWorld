@@ -16,11 +16,11 @@ class LogicalAgent : public Agent {
 
 public:
     void makeMove();
-    void informW(bool state, int x, int y);
-    void informP(bool state, int x, int y);
-    void informB(bool state, int x, int y);
-    void informS(bool state, int x, int y);
-    void informG(bool state, int x, int y);
+    bool informW(bool state, Coordinate x);
+    bool informP(bool state, Coordinate x);
+    bool informB(bool state, Coordinate x);
+    bool informS(bool state, Coordinate x);
+    bool informG(bool state, Coordinate x);
 };
 
 #endif /* LogicalAgent_hpp */
