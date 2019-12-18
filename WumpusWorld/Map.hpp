@@ -24,9 +24,10 @@ public:
     void readMap(string filename);
     void printMap();
     Room goToRoom(Coordinate p) {
-        Room res = m[p.x][p.y];
+        return m[p.x][p.y];
+    }
+    void takeGold(Coordinate p) {
         m[p.x][p.y].G = false;
-        return res;
     }
     void shotRoom(Coordinate p) {
         m[p.x][p.y].W = false;

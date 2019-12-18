@@ -38,6 +38,12 @@ struct Coordinate {
     Coordinate() {
         x=0; y=0;
     }
+    Coordinate(int x, int y) {
+        this->x = x; this->y = y;
+    }
+    string stringify() {
+        return to_string(x) + " ," + to_string(y);
+    }
 };
 
 #define output Logger::getLogger()
@@ -49,16 +55,13 @@ class Logger{
     Logger(const Logger&){};
 public:
     static string mFilename;
-    void print(string message) {
+    void println(string message) {
         out << message << "\n";
     }
-    static Logger* getLogger() {
-        if (mThis == NULL){
-            mThis = new Logger();
-            out.open(mFilename.c_str(), ios::out);
-        }
-        return mThis;
+    void print(string message) {
+        out << message;
     }
+    static Logger* getLogger();
 };
 
 #endif /* Other_hpp */

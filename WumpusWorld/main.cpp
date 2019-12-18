@@ -8,7 +8,6 @@
 
 #include <iostream>
 #include <string>
-#include "Map.hpp"
 #include "LogicalAgent.hpp"
 #include "QLearningAgent.hpp"
 using namespace std;
