@@ -16,31 +16,31 @@ void Map::readMap(string filename) {
     for (int i=10; i>=1; i--) {
         cin>>s;
         j = 1;
-        m[i][j].setFalse();
+        m[j][i].setFalse();
         for (int k=0; k<s.length(); k++) {
             switch (s[k]) {
             case '.':
                 j++;
-                m[i][j].setFalse();
+                m[j][i].setFalse();
                 break;
             case 'A':
-                startPoint.x = i;
-                startPoint.y = j;
+                startPoint.x = j;
+                startPoint.y = i;
                 break;
             case 'W':
-                m[i][j].W = 1;
+                m[j][i].W = 1;
                 break;
             case 'P':
-                m[i][j].P = 1;
+                m[j][i].P = 1;
                 break;
             case 'B':
-                m[i][j].B = 1;
+                m[j][i].B = 1;
                 break;
             case 'S':
-                m[i][j].S = 1;
+                m[j][i].S = 1;
                 break;
             case 'G':
-                m[i][j].G = 1;
+                m[j][i].G = 1;
                 break;
             }
         }
