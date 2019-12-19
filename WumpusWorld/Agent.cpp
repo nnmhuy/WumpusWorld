@@ -44,13 +44,16 @@ Room Agent::enterRoom() {
         output->println(message);
     }
     if (newRoom.G == 1) {
+        currentGold = true;
         pMap->takeGold(p);
         newRoom.G = 0;
         string message = "Yay, There is gold in Room " + p.stringify();
         output->println(message);
-        message = "The current point is " + point;
+        char pointString[5];
+        itoa(point, pointString, 10);
+        message = "The current score is: " + string(pointString);
         output->println(message);
-    }
+    } else currentGold = false;
     return newRoom;
 }
 
@@ -93,4 +96,52 @@ bool Agent::validIndex(Coordinate x) {
     if (x.x < 1 || x.x > mapSize) return false;
     if (x.y < 1 || x.y > mapSize) return false;
     return true;
+}
+
+void Agent::draw() {
+    if (system("CLS")) system("clear");
+    for (int i=mapSize; i>=1; i--) {
+        for (int j=1; j<=mapSize; j++) {
+            if (visited[j][i] == false) {
+                //system("COLOR F8"); // gray
+                cout<<" ?  |";
+                continue;
+            }
+            if (m[j][i].W == 1) {
+                //system("COLOR F0"); // black
+                cout<<" W  |";
+                continue;
+            }
+            if (m[j][i].P == 1) {
+                //system("COLOR F0"); // black
+                cout<<" P  |";
+                continue;
+            }
+            if (j == p.x && i == p.y) {
+                cout<<"T";
+            } else {
+                cout<<" ";
+            }
+            if (currentGold == true && j == p.x && i == p.y) cout<<"G";
+            else cout<<" ";
+
+            if (m[j][i].B == 1) cout<<"B";
+            else cout<<" ";
+            if (m[j][i].S == 1) cout<<"S";
+            else cout<<" ";
+            cout<<"|";
+        }
+        //system("COLOR 00");
+        cout<<" \n";
+        for (int j=1; j<=mapSize; j++) {
+            cout<<"_____";
+        }
+        cout<<"\n";
+    }
+    cout<<"\n";
+    cout<<"The current point is: " <<point <<"\n";
+    if (moveLeft > 0)
+        cout<<"The number of move have used: "<< 150-moveLeft <<"\n";
+    else cout<<"The game is end\n";
+    cout<<"Press any key to continue\n";
 }
