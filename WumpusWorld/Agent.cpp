@@ -7,7 +7,6 @@
 //
 
 #include "Agent.hpp"
-
 Agent::Agent(Coordinate startCoordinate, int mapSize, Map *pMap) {
     p = startCoordinate;
     point = 0;
@@ -27,7 +26,7 @@ Room Agent::go() {
     --moveLeft;
     p.x += forwardX[currentDirection];
     p.y += forwardY[currentDirection];
-    output->println("FORWARD (Enter Room " + p.stringify() + " )");
+    output->println("FORWARD (Enter Room " + p.stringify() + ")");
     return enterRoom();
 }
 
@@ -39,9 +38,19 @@ Room Agent::enterRoom() {
     if (newRoom.P || newRoom.W) {
         point -= 10000;
         moveLeft = -1; // die
+        string message = "Oh no, there is a ";
+        if (newRoom.P == 1) message += "pit in this room";
+        else message += "Wumpus in this room";
+        output->println(message);
     }
-    pMap->takeGold(p);
-    newRoom.G = 0;
+    if (newRoom.G == 1) {
+        pMap->takeGold(p);
+        newRoom.G = 0;
+        string message = "Yay, There is gold in Room " + p.stringify();
+        output->println(message);
+        message = "The current point is " + point;
+        output->println(message);
+    }
     return newRoom;
 }
 
@@ -81,7 +90,7 @@ void Agent::turn(bool isLeft) {
 }
 
 bool Agent::validIndex(Coordinate x) {
-    if (x.x < 1 && x.x > mapSize) return false;
-    if (x.y < 1 && x.y > mapSize) return false;
+    if (x.x < 1 || x.x > mapSize) return false;
+    if (x.y < 1 || x.y > mapSize) return false;
     return true;
 }

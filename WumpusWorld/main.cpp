@@ -14,9 +14,12 @@ using namespace std;
 
 int main(int argc, const char * argv[]) {
     Map map1;
-    map1.readMap("map1.txt");
+    map1.readMap("map.txt");
     Logger::mFilename = "result.txt";
-    output->println("hellow");
-    LogicalAgent LA(map1.startPoint, map1.mapSize, &map1);
+    LogicalAgent la(map1.startPoint, map1.mapSize, &map1);
+    la.startAgent();
+    while (la.isEnd() == false) {
+        la.makeMove();
+    }
     return 0;
 }

@@ -48,7 +48,7 @@ struct Coordinate {
         char xS[5], yS[5];
         itoa(x, xS, 10);
         itoa(y, yS, 10);
-        return string(xS) + " ," + string(yS);
+        return string(xS) + ", " + string(yS);
     }
 };
 

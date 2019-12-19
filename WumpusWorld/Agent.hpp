@@ -37,6 +37,10 @@ public:
     void shot();
     void turn(bool isLeft);
     bool validIndex(Coordinate x);
+    bool isEnd() {
+        if (moveLeft <= 0) return true;
+        return false;
+    }
 };
 
 

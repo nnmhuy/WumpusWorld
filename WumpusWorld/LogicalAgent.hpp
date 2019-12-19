@@ -13,10 +13,15 @@
 #include "Agent.hpp"
 
 class LogicalAgent : public Agent {
-
+    bool flyingMode;
 public:
-    LogicalAgent(Coordinate startCoordinate, int mapSize, Map *pMap) : Agent(startCoordinate, mapSize, pMap) {}
+    LogicalAgent(Coordinate startCoordinate, int mapSize, Map *pMap) : Agent(startCoordinate, mapSize, pMap) {
+        flyingMode = false;
+    }
+    void getMoreKnowledge(Room r);
+    void startAgent();
     void makeMove();
+    void returnHome();
     bool informW(bool state, Coordinate x);
     bool informP(bool state, Coordinate x);
     bool informB(bool state, Coordinate x);
