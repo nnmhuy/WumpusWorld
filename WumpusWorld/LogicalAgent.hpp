@@ -15,6 +15,7 @@
 class LogicalAgent : public Agent {
 
 public:
+    LogicalAgent(Coordinate startCoordinate, int mapSize, Map *pMap) : Agent(startCoordinate, mapSize, pMap) {}
     void makeMove();
     bool informW(bool state, Coordinate x);
     bool informP(bool state, Coordinate x);

@@ -28,6 +28,10 @@ Room Agent::go() {
     p.x += forwardX[currentDirection];
     p.y += forwardY[currentDirection];
     output->println("FORWARD (Enter Room " + p.stringify() + " )");
+    return enterRoom();
+}
+
+Room Agent::enterRoom() {
     visited[p.x][p.y] = true;
     // interact with map
     Room newRoom = pMap->goToRoom(p); // get data from map
@@ -37,6 +41,7 @@ Room Agent::go() {
         moveLeft = -1; // die
     }
     pMap->takeGold(p);
+    newRoom.G = 0;
     return newRoom;
 }
 
@@ -53,7 +58,7 @@ Room Agent::goTo(Coordinate finalPoint) {
     } else {
         for (int j=1; j<=countRight; j++) turn(false);
     }
-
+    return go();
 }
 
 void Agent::shot() {

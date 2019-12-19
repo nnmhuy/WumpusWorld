@@ -27,10 +27,10 @@ public:
         return m[p.x][p.y];
     }
     void takeGold(Coordinate p) {
-        m[p.x][p.y].G = false;
+        m[p.x][p.y].G = 0;
     }
     void shotRoom(Coordinate p) {
-        m[p.x][p.y].W = false;
+        m[p.x][p.y].W = 0;
     }
 };
 

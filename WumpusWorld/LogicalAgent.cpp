@@ -36,7 +36,7 @@ bool LogicalAgent::informB(bool state, Coordinate x) {
             informP(true, unknownPosition);
         }
     }
-    if (m[x.x][x.y].B != -1 || state == -1) return false;
+    if (m[x.x][x.y].B != -1) return false;
     m[x.x][x.y].B = state;
 
     if (state) {
@@ -50,6 +50,7 @@ bool LogicalAgent::informB(bool state, Coordinate x) {
             informP(false, newPosition);
         }
     }
+    return true;
 }
 bool LogicalAgent::informS(bool state, Coordinate x) {
     Coordinate newPosition;
@@ -75,7 +76,7 @@ bool LogicalAgent::informS(bool state, Coordinate x) {
             informW(true, unknownPosition);
         }
     }
-    if (m[x.x][x.y].S != -1 || state == -1) return false;
+    if (m[x.x][x.y].S != -1) return false;
     m[x.x][x.y].S = state;
 
     if (state) {
@@ -89,6 +90,7 @@ bool LogicalAgent::informS(bool state, Coordinate x) {
             informW(false, newPosition);
         }
     }
+    return true;
 }
 bool LogicalAgent::informW(bool state, Coordinate x) {
     if (m[x.x][x.y].W != -1) return false;
@@ -115,9 +117,11 @@ bool LogicalAgent::informW(bool state, Coordinate x) {
             newPosition.x = x.x + forwardX[i];
             newPosition.y = x.y + forwardY[i];
             if (!validIndex(newPosition)) continue;
+            if (m[newPosition.x][newPosition.y].S == -1) continue;
             informS(m[newPosition.x][newPosition.y].S, newPosition);
         }
     }
+    return true;
 }
 bool LogicalAgent::informP(bool state, Coordinate x) {
     if (m[x.x][x.y].P != -1) return false;
@@ -144,9 +148,11 @@ bool LogicalAgent::informP(bool state, Coordinate x) {
             newPosition.x = x.x + forwardX[i];
             newPosition.y = x.y + forwardY[i];
             if (!validIndex(newPosition)) continue;
+            if (m[newPosition.x][newPosition.y].B == -1) continue;
             informB(m[newPosition.x][newPosition.y].B, newPosition);
         }
     }
+    return true;
 }
 bool LogicalAgent::informG(bool state, Coordinate x) {
     if (m[x.x][x.y].G != -1) return false;
@@ -157,4 +163,5 @@ bool LogicalAgent::informG(bool state, Coordinate x) {
         message = "The current point is " + point;
         output->print(message);
     }
+    return true;
 }
