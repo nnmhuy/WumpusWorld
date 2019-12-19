@@ -70,6 +70,9 @@ void LogicalAgent::makeMove() {
         }
         for (int i=r; i>=1; i--) {
             goTo(qRoom[i]);
+            draw();
+            cout<<"There are not any safe room to move, so we will return home\n";
+            cin.get();
         }
         returnHome();
         return;

@@ -18,8 +18,12 @@ int main(int argc, const char * argv[]) {
     Logger::mFilename = "result.txt";
     LogicalAgent la(map1.startPoint, map1.mapSize, &map1);
     la.startAgent();
+    char c;
     while (la.isEnd() == false) {
+        la.draw();
+        cin.get();
         la.makeMove();
     }
+    la.draw();
     return 0;
 }

@@ -10,11 +10,12 @@
 
 void Map::readMap(string filename) {
     mapSize = 10;
-    freopen(filename.c_str(), "r", stdin);
+    ifstream in;
+    in.open(filename.c_str());
     string s;
     int j;
     for (int i=10; i>=1; i--) {
-        cin>>s;
+        in>>s;
         j = 1;
         m[j][i].setFalse();
         for (int k=0; k<s.length(); k++) {
@@ -45,5 +46,5 @@ void Map::readMap(string filename) {
             }
         }
     }
-    fclose(stdin);
+    in.close();
 }
