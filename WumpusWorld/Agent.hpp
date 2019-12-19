@@ -32,6 +32,7 @@ public:
     Agent(Coordinate startCoordinate, int mapSize, Map *pMap);
     virtual void makeMove() = 0;
     Room go();
+    Room enterRoom();
     Room goTo(Coordinate finalPoint);
     void shot();
     void turn(bool isLeft);

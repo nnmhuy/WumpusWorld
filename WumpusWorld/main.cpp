@@ -13,11 +13,10 @@
 using namespace std;
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
     Map map1;
     map1.readMap("map1.txt");
-    Logger::mFilename = "result2.txt";
-    output->print("hellow");
+    Logger::mFilename = "result.txt";
+    output->println("hellow");
+    LogicalAgent LA(map1.startPoint, map1.mapSize, &map1);
     return 0;
 }

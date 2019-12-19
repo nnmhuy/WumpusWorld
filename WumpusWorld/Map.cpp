@@ -28,19 +28,19 @@ void Map::readMap(string filename) {
                 startPoint.y = j;
                 break;
             case 'W':
-                m[i][j].W = true;
+                m[i][j].W = 1;
                 break;
             case 'P':
-                m[i][j].P = true;
+                m[i][j].P = 1;
                 break;
             case 'B':
-                m[i][j].B = true;
+                m[i][j].B = 1;
                 break;
             case 'S':
-                m[i][j].S = true;
+                m[i][j].S = 1;
                 break;
             case 'G':
-                m[i][j].G = true;
+                m[i][j].G = 1;
                 break;
             }
         }
