@@ -8,6 +8,8 @@
 
 #include "Other.hpp"
 
+
+string Logger::inputFilename = "map.txt";
 string Logger::mFilename = "result.txt";
 Logger* Logger::mThis = NULL;
 ofstream Logger::out;
@@ -17,4 +19,9 @@ Logger* Logger::getLogger(){
         out.open(mFilename.c_str(), ios::out);
     }
     return mThis;
+}
+
+
+double randDouble() {
+    return (double)(rand() / (double)RAND_MAX);
 }

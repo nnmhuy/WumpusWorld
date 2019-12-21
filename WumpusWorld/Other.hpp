@@ -16,7 +16,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-const int MAX_MAP_SIZE = 10;
+const int MAX_MAP_SIZE = 12;
 using namespace std;
 
 struct Room {
@@ -51,6 +51,9 @@ struct Coordinate {
 //        return string(xS) + ", " + string(yS);
         return to_string(x) + ", " + to_string(y);
     }
+    bool operator == (Coordinate const &obj){
+        return x == obj.x && y == obj.y;
+    }
 };
 
 #define output Logger::getLogger()
@@ -62,6 +65,7 @@ class Logger{
     Logger(const Logger&){};
 public:
     static string mFilename;
+    static string inputFilename;
     void println(string message) {
         out << message << "\n";
     }
@@ -70,5 +74,7 @@ public:
     }
     static Logger* getLogger();
 };
+
+double randDouble();
 
 #endif /* Other_hpp */
