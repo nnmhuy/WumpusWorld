@@ -1894,6 +1894,38 @@
 			<key>uniqueIdentifier</key>
 			<string>D8197297-3112-435E-83A6-F1B5525D2C2E</string>
 		</dict>
+		<key>DFC2A371-9F3A-4E34-8A99-9B1BDCF2F0D0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DFC2A371-9F3A-4E34-8A99-9B1BDCF2F0D0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598639637.40429604</real>
+			<key>timeStoppedRecording</key>
+			<real>598639648.77423501</real>
+			<key>title</key>
+			<string>Debug WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>DFC2A371-9F3A-4E34-8A99-9B1BDCF2F0D0</string>
+		</dict>
 		<key>E07EC44D-0A7F-4CF1-819E-5FF69FAAF198</key>
 		<dict>
 			<key>className</key>

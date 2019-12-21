@@ -1606,6 +1606,38 @@
 			<key>uniqueIdentifier</key>
 			<string>82F1DBF3-81F3-4C8B-BA33-A2F270207798</string>
 		</dict>
+		<key>8717C01D-18EE-441A-8A33-9CE214331787</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8717C01D-18EE-441A-8A33-9CE214331787.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598639631.46253002</real>
+			<key>timeStoppedRecording</key>
+			<real>598639634.91582704</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>8717C01D-18EE-441A-8A33-9CE214331787</string>
+		</dict>
 		<key>87829E55-2762-46F1-8B1A-0CEDFA9FDB70</key>
 		<dict>
 			<key>className</key>
@@ -3045,6 +3077,38 @@
 			<string>Build WumpusWorld</string>
 			<key>uniqueIdentifier</key>
 			<string>F2E2960E-52F0-4A9C-8CE1-6C0379DB1626</string>
+		</dict>
+		<key>F89B968E-B3B7-400F-92A6-9EEE60415AF0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F89B968E-B3B7-400F-92A6-9EEE60415AF0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598639637.36978602</real>
+			<key>timeStoppedRecording</key>
+			<real>598639637.91734004</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>F89B968E-B3B7-400F-92A6-9EEE60415AF0</string>
 		</dict>
 		<key>F9CEE20B-45BB-4D1F-9383-F74D50DBDE5C</key>
 		<dict>
