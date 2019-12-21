@@ -141,7 +141,7 @@ void Agent::draw() {
     cout<<"\n";
     cout<<"The current point is: " <<point <<"\n";
     if (moveLeft > 0)
-        cout<<"The number of move have used: "<< 150-moveLeft <<"\n";
-    else cout<<"The game end\n";
-    cout<<"Press enter to continue\n";
+        cout<<"The number of moves used: "<< 150-moveLeft <<"\n";
+    else cout<<"The game ends\n";
+    cout<<"Press any key to continue\n";
 }

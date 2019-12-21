@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>02D33CCD-A78A-4F98-9E75-20C7FC93AA6C</key>
+		<key>0954AA42-3178-43F5-8E1D-FDC7BD538AE0</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>02D33CCD-A78A-4F98-9E75-20C7FC93AA6C.xcactivitylog</string>
+			<string>0954AA42-3178-43F5-8E1D-FDC7BD538AE0.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -30,15 +30,15 @@
 			<key>signature</key>
 			<string>Build WumpusWorld</string>
 			<key>timeStartedRecording</key>
-			<real>598590506.25112605</real>
+			<real>598633993.65968204</real>
 			<key>timeStoppedRecording</key>
-			<real>598590509.22056305</real>
+			<real>598633993.72198296</real>
 			<key>title</key>
 			<string>Build WumpusWorld</string>
 			<key>uniqueIdentifier</key>
-			<string>02D33CCD-A78A-4F98-9E75-20C7FC93AA6C</string>
+			<string>0954AA42-3178-43F5-8E1D-FDC7BD538AE0</string>
 		</dict>
-		<key>1CDBDE02-B91C-4CF7-BB7E-13411FFBBB39</key>
+		<key>0B4505A8-CCB7-4AB2-B15B-EEA237EF9570</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -47,7 +47,39 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>1CDBDE02-B91C-4CF7-BB7E-13411FFBBB39.xcactivitylog</string>
+			<string>0B4505A8-CCB7-4AB2-B15B-EEA237EF9570.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598620004.83190799</real>
+			<key>timeStoppedRecording</key>
+			<real>598620004.92436397</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>0B4505A8-CCB7-4AB2-B15B-EEA237EF9570</string>
+		</dict>
+		<key>0B5A4D62-EA63-4168-AF03-D6B08BCB1716</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0B5A4D62-EA63-4168-AF03-D6B08BCB1716.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -62,15 +94,15 @@
 			<key>signature</key>
 			<string>Build WumpusWorld</string>
 			<key>timeStartedRecording</key>
-			<real>598588849.24117398</real>
+			<real>598619239.14934397</real>
 			<key>timeStoppedRecording</key>
-			<real>598588853.37410605</real>
+			<real>598619240.40140498</real>
 			<key>title</key>
 			<string>Build WumpusWorld</string>
 			<key>uniqueIdentifier</key>
-			<string>1CDBDE02-B91C-4CF7-BB7E-13411FFBBB39</string>
+			<string>0B5A4D62-EA63-4168-AF03-D6B08BCB1716</string>
 		</dict>
-		<key>1F3DE019-F517-4FF1-96EE-C794A41FA95E</key>
+		<key>10A11E43-B7E8-4A82-AB6C-BA14E16C0A33</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -79,11 +111,11 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>1F3DE019-F517-4FF1-96EE-C794A41FA95E.xcactivitylog</string>
+			<string>10A11E43-B7E8-4A82-AB6C-BA14E16C0A33.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>WumpusWorld project</string>
@@ -94,15 +126,15 @@
 			<key>signature</key>
 			<string>Build WumpusWorld</string>
 			<key>timeStartedRecording</key>
-			<real>598590003.41154003</real>
+			<real>598618860.88460398</real>
 			<key>timeStoppedRecording</key>
-			<real>598590005.391083</real>
+			<real>598618861.19154</real>
 			<key>title</key>
 			<string>Build WumpusWorld</string>
 			<key>uniqueIdentifier</key>
-			<string>1F3DE019-F517-4FF1-96EE-C794A41FA95E</string>
+			<string>10A11E43-B7E8-4A82-AB6C-BA14E16C0A33</string>
 		</dict>
-		<key>20440465-A269-4704-BB27-48AF753EEC79</key>
+		<key>11338BFC-A7D2-4CA4-8F32-1DDAC9EAE4A4</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -111,7 +143,359 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>20440465-A269-4704-BB27-48AF753EEC79.xcactivitylog</string>
+			<string>11338BFC-A7D2-4CA4-8F32-1DDAC9EAE4A4.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598621644.39399505</real>
+			<key>timeStoppedRecording</key>
+			<real>598621646.23706996</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>11338BFC-A7D2-4CA4-8F32-1DDAC9EAE4A4</string>
+		</dict>
+		<key>125C6331-603E-4CC7-911D-5B5744E37E40</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>125C6331-603E-4CC7-911D-5B5744E37E40.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619629.13698399</real>
+			<key>timeStoppedRecording</key>
+			<real>598619631.07998097</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>125C6331-603E-4CC7-911D-5B5744E37E40</string>
+		</dict>
+		<key>160B6AA9-F4B6-4417-AD7D-8741FF114A70</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>160B6AA9-F4B6-4417-AD7D-8741FF114A70.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619857.87759304</real>
+			<key>timeStoppedRecording</key>
+			<real>598619859.36744797</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>160B6AA9-F4B6-4417-AD7D-8741FF114A70</string>
+		</dict>
+		<key>176582CE-C2FE-4408-8C1E-2ACE4861BE64</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>176582CE-C2FE-4408-8C1E-2ACE4861BE64.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598620039.46336102</real>
+			<key>timeStoppedRecording</key>
+			<real>598620041.23195899</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>176582CE-C2FE-4408-8C1E-2ACE4861BE64</string>
+		</dict>
+		<key>1C09B277-CBC2-4ABB-A0C0-11A1CC439DEE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1C09B277-CBC2-4ABB-A0C0-11A1CC439DEE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619189.02313805</real>
+			<key>timeStoppedRecording</key>
+			<real>598619190.38569701</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>1C09B277-CBC2-4ABB-A0C0-11A1CC439DEE</string>
+		</dict>
+		<key>1D459BD2-478D-4D4A-B704-17FD4906DCF1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1D459BD2-478D-4D4A-B704-17FD4906DCF1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598620438.99509597</real>
+			<key>timeStoppedRecording</key>
+			<real>598620441.01719701</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>1D459BD2-478D-4D4A-B704-17FD4906DCF1</string>
+		</dict>
+		<key>21E350D3-1E13-4C18-9C29-5ABDD42F3F2C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>21E350D3-1E13-4C18-9C29-5ABDD42F3F2C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619907.22473204</real>
+			<key>timeStoppedRecording</key>
+			<real>598619909.11982799</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>21E350D3-1E13-4C18-9C29-5ABDD42F3F2C</string>
+		</dict>
+		<key>291D65D0-D942-43AD-9C5C-4935E8FFFFED</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>291D65D0-D942-43AD-9C5C-4935E8FFFFED.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598620135.351408</real>
+			<key>timeStoppedRecording</key>
+			<real>598620135.42506397</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>291D65D0-D942-43AD-9C5C-4935E8FFFFED</string>
+		</dict>
+		<key>2C1FCE63-CD10-43BE-8F9A-D4EC73E2B8DF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2C1FCE63-CD10-43BE-8F9A-D4EC73E2B8DF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619205.58430696</real>
+			<key>timeStoppedRecording</key>
+			<real>598619206.55034995</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>2C1FCE63-CD10-43BE-8F9A-D4EC73E2B8DF</string>
+		</dict>
+		<key>30D19C17-6509-4C26-A708-E28EB776B376</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>30D19C17-6509-4C26-A708-E28EB776B376.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619888.71572399</real>
+			<key>timeStoppedRecording</key>
+			<real>598619889.89431798</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>30D19C17-6509-4C26-A708-E28EB776B376</string>
+		</dict>
+		<key>374C5CF5-DF0C-4B3D-91E5-983264364235</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>374C5CF5-DF0C-4B3D-91E5-983264364235.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598618906.39778697</real>
+			<key>timeStoppedRecording</key>
+			<real>598618907.91109705</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>374C5CF5-DF0C-4B3D-91E5-983264364235</string>
+		</dict>
+		<key>3C0E6A81-A1EF-47E0-9EE7-4562751B462B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3C0E6A81-A1EF-47E0-9EE7-4562751B462B.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -126,15 +510,15 @@
 			<key>signature</key>
 			<string>Build WumpusWorld</string>
 			<key>timeStartedRecording</key>
-			<real>598590501.19783795</real>
+			<real>598619476.36489105</real>
 			<key>timeStoppedRecording</key>
-			<real>598590502.46557403</real>
+			<real>598619476.44660401</real>
 			<key>title</key>
 			<string>Build WumpusWorld</string>
 			<key>uniqueIdentifier</key>
-			<string>20440465-A269-4704-BB27-48AF753EEC79</string>
+			<string>3C0E6A81-A1EF-47E0-9EE7-4562751B462B</string>
 		</dict>
-		<key>23D57E33-1D66-4FA0-A1E6-3AE6B051586F</key>
+		<key>3E755C87-5FCB-4F2A-B511-CF3114F930E8</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -143,11 +527,11 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>23D57E33-1D66-4FA0-A1E6-3AE6B051586F.xcactivitylog</string>
+			<string>3E755C87-5FCB-4F2A-B511-CF3114F930E8.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>WumpusWorld project</string>
@@ -158,15 +542,15 @@
 			<key>signature</key>
 			<string>Build WumpusWorld</string>
 			<key>timeStartedRecording</key>
-			<real>598589021.87491596</real>
+			<real>598635134.48684299</real>
 			<key>timeStoppedRecording</key>
-			<real>598589027.59828103</real>
+			<real>598635134.595034</real>
 			<key>title</key>
 			<string>Build WumpusWorld</string>
 			<key>uniqueIdentifier</key>
-			<string>23D57E33-1D66-4FA0-A1E6-3AE6B051586F</string>
+			<string>3E755C87-5FCB-4F2A-B511-CF3114F930E8</string>
 		</dict>
-		<key>2F3885AC-0592-4F24-BBC0-A96CFD7D5CD9</key>
+		<key>3ECA9EBD-D2CA-4440-8EF1-48F848679346</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -175,7 +559,327 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2F3885AC-0592-4F24-BBC0-A96CFD7D5CD9.xcactivitylog</string>
+			<string>3ECA9EBD-D2CA-4440-8EF1-48F848679346.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598634767.725968</real>
+			<key>timeStoppedRecording</key>
+			<real>598634768.940979</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>3ECA9EBD-D2CA-4440-8EF1-48F848679346</string>
+		</dict>
+		<key>40EB35FC-9053-4A27-8520-DE6936773640</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>40EB35FC-9053-4A27-8520-DE6936773640.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598635346.90537405</real>
+			<key>timeStoppedRecording</key>
+			<real>598635349.05403602</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>40EB35FC-9053-4A27-8520-DE6936773640</string>
+		</dict>
+		<key>41C54187-5A7A-4D44-BF61-FEE0DCB449D5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>41C54187-5A7A-4D44-BF61-FEE0DCB449D5.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598634072.702456</real>
+			<key>timeStoppedRecording</key>
+			<real>598634074.34256005</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>41C54187-5A7A-4D44-BF61-FEE0DCB449D5</string>
+		</dict>
+		<key>430BDF6F-86FA-4E88-B26A-0239B252EB69</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>430BDF6F-86FA-4E88-B26A-0239B252EB69.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598618966.44738996</real>
+			<key>timeStoppedRecording</key>
+			<real>598618968.16577196</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>430BDF6F-86FA-4E88-B26A-0239B252EB69</string>
+		</dict>
+		<key>43335450-191C-406B-88D8-D5D276FCFD95</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>43335450-191C-406B-88D8-D5D276FCFD95.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619184.08126199</real>
+			<key>timeStoppedRecording</key>
+			<real>598619184.13317299</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>43335450-191C-406B-88D8-D5D276FCFD95</string>
+		</dict>
+		<key>46DC0FFF-2C92-4241-9C19-A1B3D2A01BEC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>46DC0FFF-2C92-4241-9C19-A1B3D2A01BEC.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598620001.30763698</real>
+			<key>timeStoppedRecording</key>
+			<real>598620001.390149</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>46DC0FFF-2C92-4241-9C19-A1B3D2A01BEC</string>
+		</dict>
+		<key>5064ABFC-C6ED-4A72-BC62-63C360DB5381</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5064ABFC-C6ED-4A72-BC62-63C360DB5381.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598618828.80094695</real>
+			<key>timeStoppedRecording</key>
+			<real>598618828.85472202</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>5064ABFC-C6ED-4A72-BC62-63C360DB5381</string>
+		</dict>
+		<key>544C8E26-A4D1-4E48-842E-F62F2FF0F918</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>544C8E26-A4D1-4E48-842E-F62F2FF0F918.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598620310.70494199</real>
+			<key>timeStoppedRecording</key>
+			<real>598620311.93391299</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>544C8E26-A4D1-4E48-842E-F62F2FF0F918</string>
+		</dict>
+		<key>548E6A56-547E-4C91-ACF3-54821385A530</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>548E6A56-547E-4C91-ACF3-54821385A530.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619245.67754495</real>
+			<key>timeStoppedRecording</key>
+			<real>598619246.81890297</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>548E6A56-547E-4C91-ACF3-54821385A530</string>
+		</dict>
+		<key>54C1AF0D-1E12-4849-8D3C-4AA36B6F2BD0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>54C1AF0D-1E12-4849-8D3C-4AA36B6F2BD0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598635318.70607996</real>
+			<key>timeStoppedRecording</key>
+			<real>598635320.51015103</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>54C1AF0D-1E12-4849-8D3C-4AA36B6F2BD0</string>
+		</dict>
+		<key>55B3F6BC-897A-4098-85A9-8295CF93FF56</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>55B3F6BC-897A-4098-85A9-8295CF93FF56.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -190,15 +894,15 @@
 			<key>signature</key>
 			<string>Build WumpusWorld</string>
 			<key>timeStartedRecording</key>
-			<real>598588884.85148597</real>
+			<real>598619547.35411298</real>
 			<key>timeStoppedRecording</key>
-			<real>598588886.71341395</real>
+			<real>598619548.89771402</real>
 			<key>title</key>
 			<string>Build WumpusWorld</string>
 			<key>uniqueIdentifier</key>
-			<string>2F3885AC-0592-4F24-BBC0-A96CFD7D5CD9</string>
+			<string>55B3F6BC-897A-4098-85A9-8295CF93FF56</string>
 		</dict>
-		<key>3EF634EE-8943-4384-9B00-E9F4222D38E1</key>
+		<key>565980CA-F7E8-4F3F-99BB-023F5D4A3BBD</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -207,7 +911,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>3EF634EE-8943-4384-9B00-E9F4222D38E1.xcactivitylog</string>
+			<string>565980CA-F7E8-4F3F-99BB-023F5D4A3BBD.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -222,15 +926,15 @@
 			<key>signature</key>
 			<string>Build WumpusWorld</string>
 			<key>timeStartedRecording</key>
-			<real>598590027.26946497</real>
+			<real>598619123.33606303</real>
 			<key>timeStoppedRecording</key>
-			<real>598590028.82662106</real>
+			<real>598619124.23541296</real>
 			<key>title</key>
 			<string>Build WumpusWorld</string>
 			<key>uniqueIdentifier</key>
-			<string>3EF634EE-8943-4384-9B00-E9F4222D38E1</string>
+			<string>565980CA-F7E8-4F3F-99BB-023F5D4A3BBD</string>
 		</dict>
-		<key>524560B9-3589-4417-8FFF-6F2E5B7C6891</key>
+		<key>5683F7D3-5494-4198-A9ED-E0B4FBB4C648</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -239,103 +943,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>524560B9-3589-4417-8FFF-6F2E5B7C6891.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>WumpusWorld project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>WumpusWorld</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build WumpusWorld</string>
-			<key>timeStartedRecording</key>
-			<real>598588903.11825299</real>
-			<key>timeStoppedRecording</key>
-			<real>598588906.69156301</real>
-			<key>title</key>
-			<string>Build WumpusWorld</string>
-			<key>uniqueIdentifier</key>
-			<string>524560B9-3589-4417-8FFF-6F2E5B7C6891</string>
-		</dict>
-		<key>58A915AF-452F-4D91-A079-DF06B2DBC7FE</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>58A915AF-452F-4D91-A079-DF06B2DBC7FE.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>WumpusWorld project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>WumpusWorld</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build WumpusWorld</string>
-			<key>timeStartedRecording</key>
-			<real>598589047.10548198</real>
-			<key>timeStoppedRecording</key>
-			<real>598589047.21083903</real>
-			<key>title</key>
-			<string>Build WumpusWorld</string>
-			<key>uniqueIdentifier</key>
-			<string>58A915AF-452F-4D91-A079-DF06B2DBC7FE</string>
-		</dict>
-		<key>6910E8B9-868B-47A2-B27F-A8438396FDE6</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>6910E8B9-868B-47A2-B27F-A8438396FDE6.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>WumpusWorld project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>WumpusWorld</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build WumpusWorld</string>
-			<key>timeStartedRecording</key>
-			<real>598589046.60224903</real>
-			<key>timeStoppedRecording</key>
-			<real>598589046.665079</real>
-			<key>title</key>
-			<string>Build WumpusWorld</string>
-			<key>uniqueIdentifier</key>
-			<string>6910E8B9-868B-47A2-B27F-A8438396FDE6</string>
-		</dict>
-		<key>6E9FCC71-A7A5-453D-8245-773F49A9583F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>6E9FCC71-A7A5-453D-8245-773F49A9583F.xcactivitylog</string>
+			<string>5683F7D3-5494-4198-A9ED-E0B4FBB4C648.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -350,15 +958,15 @@
 			<key>signature</key>
 			<string>Build WumpusWorld</string>
 			<key>timeStartedRecording</key>
-			<real>598590078.39311898</real>
+			<real>598618928.19092596</real>
 			<key>timeStoppedRecording</key>
-			<real>598590080.22988498</real>
+			<real>598618928.24096894</real>
 			<key>title</key>
 			<string>Build WumpusWorld</string>
 			<key>uniqueIdentifier</key>
-			<string>6E9FCC71-A7A5-453D-8245-773F49A9583F</string>
+			<string>5683F7D3-5494-4198-A9ED-E0B4FBB4C648</string>
 		</dict>
-		<key>7450025A-05C4-43E0-81E7-797B1F341E11</key>
+		<key>57EC8D00-64E4-49F2-AAA9-719C9D28D3FF</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -367,103 +975,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7450025A-05C4-43E0-81E7-797B1F341E11.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>WumpusWorld project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>WumpusWorld</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build WumpusWorld</string>
-			<key>timeStartedRecording</key>
-			<real>598589972.15816295</real>
-			<key>timeStoppedRecording</key>
-			<real>598589972.25317705</real>
-			<key>title</key>
-			<string>Build WumpusWorld</string>
-			<key>uniqueIdentifier</key>
-			<string>7450025A-05C4-43E0-81E7-797B1F341E11</string>
-		</dict>
-		<key>A091E354-AE59-45CB-9C8F-1331527F785F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A091E354-AE59-45CB-9C8F-1331527F785F.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>WumpusWorld project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>WumpusWorld</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build WumpusWorld</string>
-			<key>timeStartedRecording</key>
-			<real>598588953.77404201</real>
-			<key>timeStoppedRecording</key>
-			<real>598588957.65337098</real>
-			<key>title</key>
-			<string>Build WumpusWorld</string>
-			<key>uniqueIdentifier</key>
-			<string>A091E354-AE59-45CB-9C8F-1331527F785F</string>
-		</dict>
-		<key>A556C9A3-0E2A-4B9D-AC33-A290E54028F2</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A556C9A3-0E2A-4B9D-AC33-A290E54028F2.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>WumpusWorld project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>WumpusWorld</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build WumpusWorld</string>
-			<key>timeStartedRecording</key>
-			<real>598589078.32851398</real>
-			<key>timeStoppedRecording</key>
-			<real>598589078.46508098</real>
-			<key>title</key>
-			<string>Build WumpusWorld</string>
-			<key>uniqueIdentifier</key>
-			<string>A556C9A3-0E2A-4B9D-AC33-A290E54028F2</string>
-		</dict>
-		<key>A8CAA19E-8F78-4AF0-AD67-CAAB9FCC8F68</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A8CAA19E-8F78-4AF0-AD67-CAAB9FCC8F68.xcactivitylog</string>
+			<string>57EC8D00-64E4-49F2-AAA9-719C9D28D3FF.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -478,15 +990,15 @@
 			<key>signature</key>
 			<string>Build WumpusWorld</string>
 			<key>timeStartedRecording</key>
-			<real>598590030.92751002</real>
+			<real>598619345.74864399</real>
 			<key>timeStoppedRecording</key>
-			<real>598590030.98606896</real>
+			<real>598619346.81105196</real>
 			<key>title</key>
 			<string>Build WumpusWorld</string>
 			<key>uniqueIdentifier</key>
-			<string>A8CAA19E-8F78-4AF0-AD67-CAAB9FCC8F68</string>
+			<string>57EC8D00-64E4-49F2-AAA9-719C9D28D3FF</string>
 		</dict>
-		<key>B2B325A3-4D22-4376-8486-AADCD8485F33</key>
+		<key>63C4EBC1-8326-460B-B70A-EE435C896CCA</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -495,7 +1007,103 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>B2B325A3-4D22-4376-8486-AADCD8485F33.xcactivitylog</string>
+			<string>63C4EBC1-8326-460B-B70A-EE435C896CCA.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598620334.14280105</real>
+			<key>timeStoppedRecording</key>
+			<real>598620334.23364604</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>63C4EBC1-8326-460B-B70A-EE435C896CCA</string>
+		</dict>
+		<key>67FD41A2-9F24-475A-8193-EAAD448E2407</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>67FD41A2-9F24-475A-8193-EAAD448E2407.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598635178.19765794</real>
+			<key>timeStoppedRecording</key>
+			<real>598635178.30089498</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>67FD41A2-9F24-475A-8193-EAAD448E2407</string>
+		</dict>
+		<key>6A6E9860-DF70-40A5-A871-96F21638CB5A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6A6E9860-DF70-40A5-A871-96F21638CB5A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598620481.13561702</real>
+			<key>timeStoppedRecording</key>
+			<real>598620483.09435999</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>6A6E9860-DF70-40A5-A871-96F21638CB5A</string>
+		</dict>
+		<key>6EC55CDE-0050-4344-95ED-CE24EDC7B52D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6EC55CDE-0050-4344-95ED-CE24EDC7B52D.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -510,15 +1118,15 @@
 			<key>signature</key>
 			<string>Build WumpusWorld</string>
 			<key>timeStartedRecording</key>
-			<real>598554128.21395099</real>
+			<real>598635114.45272505</real>
 			<key>timeStoppedRecording</key>
-			<real>598554129.48855996</real>
+			<real>598635117.47084105</real>
 			<key>title</key>
 			<string>Build WumpusWorld</string>
 			<key>uniqueIdentifier</key>
-			<string>B2B325A3-4D22-4376-8486-AADCD8485F33</string>
+			<string>6EC55CDE-0050-4344-95ED-CE24EDC7B52D</string>
 		</dict>
-		<key>B402FC3C-3D91-400B-BB52-6E5F53D28DDE</key>
+		<key>7160766D-CF4D-43CA-B017-513C79EFBD0B</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -527,7 +1135,519 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>B402FC3C-3D91-400B-BB52-6E5F53D28DDE.xcactivitylog</string>
+			<string>7160766D-CF4D-43CA-B017-513C79EFBD0B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619994.54677403</real>
+			<key>timeStoppedRecording</key>
+			<real>598619996.79721999</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>7160766D-CF4D-43CA-B017-513C79EFBD0B</string>
+		</dict>
+		<key>74CD5806-E08B-4D2A-B570-A7A08B74BBAC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>74CD5806-E08B-4D2A-B570-A7A08B74BBAC.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598618887.42021406</real>
+			<key>timeStoppedRecording</key>
+			<real>598618889.20748198</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>74CD5806-E08B-4D2A-B570-A7A08B74BBAC</string>
+		</dict>
+		<key>74EFA275-3DA3-4164-80FA-D92EDC9273FE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>74EFA275-3DA3-4164-80FA-D92EDC9273FE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619091.15852201</real>
+			<key>timeStoppedRecording</key>
+			<real>598619091.21580994</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>74EFA275-3DA3-4164-80FA-D92EDC9273FE</string>
+		</dict>
+		<key>762011DC-51BB-408A-94F7-88825C6BDBAF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>762011DC-51BB-408A-94F7-88825C6BDBAF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619661.50622404</real>
+			<key>timeStoppedRecording</key>
+			<real>598619663.47028899</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>762011DC-51BB-408A-94F7-88825C6BDBAF</string>
+		</dict>
+		<key>77B30F5F-E27E-440D-9390-988A884F19B5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>77B30F5F-E27E-440D-9390-988A884F19B5.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619088.66422999</real>
+			<key>timeStoppedRecording</key>
+			<real>598619090.56395602</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>77B30F5F-E27E-440D-9390-988A884F19B5</string>
+		</dict>
+		<key>7892FD03-479E-495A-B576-C2A1135792EE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7892FD03-479E-495A-B576-C2A1135792EE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598635281.46999598</real>
+			<key>timeStoppedRecording</key>
+			<real>598635281.70550799</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>7892FD03-479E-495A-B576-C2A1135792EE</string>
+		</dict>
+		<key>7AE2004E-A986-4560-B0BB-F4DAF6F6565E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7AE2004E-A986-4560-B0BB-F4DAF6F6565E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619730.14119303</real>
+			<key>timeStoppedRecording</key>
+			<real>598619731.19823897</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>7AE2004E-A986-4560-B0BB-F4DAF6F6565E</string>
+		</dict>
+		<key>7E4044D8-6B9B-40B0-99F2-778FE1E7D96F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7E4044D8-6B9B-40B0-99F2-778FE1E7D96F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619022.28138304</real>
+			<key>timeStoppedRecording</key>
+			<real>598619023.17922699</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>7E4044D8-6B9B-40B0-99F2-778FE1E7D96F</string>
+		</dict>
+		<key>7E92D832-28C5-471D-9548-8CE1F8C5BE50</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7E92D832-28C5-471D-9548-8CE1F8C5BE50.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598634012.55372</real>
+			<key>timeStoppedRecording</key>
+			<real>598634013.66766</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>7E92D832-28C5-471D-9548-8CE1F8C5BE50</string>
+		</dict>
+		<key>80CA783F-F950-4297-90F8-F76AF645D27E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>80CA783F-F950-4297-90F8-F76AF645D27E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598634036.11122203</real>
+			<key>timeStoppedRecording</key>
+			<real>598634036.41139996</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>80CA783F-F950-4297-90F8-F76AF645D27E</string>
+		</dict>
+		<key>81973A4C-F459-4CA8-8C64-B5687F27D80B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>81973A4C-F459-4CA8-8C64-B5687F27D80B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619025.16761005</real>
+			<key>timeStoppedRecording</key>
+			<real>598619025.23938596</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>81973A4C-F459-4CA8-8C64-B5687F27D80B</string>
+		</dict>
+		<key>82981C6A-B36C-4644-A417-AB4579E1938E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>82981C6A-B36C-4644-A417-AB4579E1938E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619408.35819995</real>
+			<key>timeStoppedRecording</key>
+			<real>598619409.87263703</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>82981C6A-B36C-4644-A417-AB4579E1938E</string>
+		</dict>
+		<key>82F1DBF3-81F3-4C8B-BA33-A2F270207798</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>82F1DBF3-81F3-4C8B-BA33-A2F270207798.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598634926.41760695</real>
+			<key>timeStoppedRecording</key>
+			<real>598634926.51159</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>82F1DBF3-81F3-4C8B-BA33-A2F270207798</string>
+		</dict>
+		<key>87829E55-2762-46F1-8B1A-0CEDFA9FDB70</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>87829E55-2762-46F1-8B1A-0CEDFA9FDB70.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598620489.62133396</real>
+			<key>timeStoppedRecording</key>
+			<real>598620491.42423999</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>87829E55-2762-46F1-8B1A-0CEDFA9FDB70</string>
+		</dict>
+		<key>8C1BE91D-4873-4046-B99E-B689B0EE94E6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8C1BE91D-4873-4046-B99E-B689B0EE94E6.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598618925.34759295</real>
+			<key>timeStoppedRecording</key>
+			<real>598618926.39453197</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>8C1BE91D-4873-4046-B99E-B689B0EE94E6</string>
+		</dict>
+		<key>8FF9A6E7-CD67-4CD5-8889-A9B96F0C4945</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8FF9A6E7-CD67-4CD5-8889-A9B96F0C4945.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598635288.52293897</real>
+			<key>timeStoppedRecording</key>
+			<real>598635289.85741103</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>8FF9A6E7-CD67-4CD5-8889-A9B96F0C4945</string>
+		</dict>
+		<key>904807B7-C8E8-492C-B293-3F492A5265C5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>904807B7-C8E8-492C-B293-3F492A5265C5.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -542,15 +1662,15 @@
 			<key>signature</key>
 			<string>Build WumpusWorld</string>
 			<key>timeStartedRecording</key>
-			<real>598553876.96468496</real>
+			<real>598619485.93963003</real>
 			<key>timeStoppedRecording</key>
-			<real>598553878.66788495</real>
+			<real>598619486.89913094</real>
 			<key>title</key>
 			<string>Build WumpusWorld</string>
 			<key>uniqueIdentifier</key>
-			<string>B402FC3C-3D91-400B-BB52-6E5F53D28DDE</string>
+			<string>904807B7-C8E8-492C-B293-3F492A5265C5</string>
 		</dict>
-		<key>B703254D-FFBF-4334-8F23-4CE74138D4EB</key>
+		<key>91006418-688E-4A4D-AB86-F924F6BD93A6</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -559,7 +1679,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>B703254D-FFBF-4334-8F23-4CE74138D4EB.xcactivitylog</string>
+			<string>91006418-688E-4A4D-AB86-F924F6BD93A6.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -574,15 +1694,15 @@
 			<key>signature</key>
 			<string>Build WumpusWorld</string>
 			<key>timeStartedRecording</key>
-			<real>598339284.70042098</real>
+			<real>598634872.91566098</real>
 			<key>timeStoppedRecording</key>
-			<real>598339286.09828997</real>
+			<real>598634874.06932402</real>
 			<key>title</key>
 			<string>Build WumpusWorld</string>
 			<key>uniqueIdentifier</key>
-			<string>B703254D-FFBF-4334-8F23-4CE74138D4EB</string>
+			<string>91006418-688E-4A4D-AB86-F924F6BD93A6</string>
 		</dict>
-		<key>BDB11668-40B7-4FB6-A5B6-999FB7B57D7A</key>
+		<key>93523E07-27F1-48AB-AEDF-0802841C503B</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -591,7 +1711,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>BDB11668-40B7-4FB6-A5B6-999FB7B57D7A.xcactivitylog</string>
+			<string>93523E07-27F1-48AB-AEDF-0802841C503B.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -606,15 +1726,15 @@
 			<key>signature</key>
 			<string>Build WumpusWorld</string>
 			<key>timeStartedRecording</key>
-			<real>598596929.00934398</real>
+			<real>598619916.04693699</real>
 			<key>timeStoppedRecording</key>
-			<real>598596931.27766395</real>
+			<real>598619917.634624</real>
 			<key>title</key>
 			<string>Build WumpusWorld</string>
 			<key>uniqueIdentifier</key>
-			<string>BDB11668-40B7-4FB6-A5B6-999FB7B57D7A</string>
+			<string>93523E07-27F1-48AB-AEDF-0802841C503B</string>
 		</dict>
-		<key>D957614B-98EB-4895-966B-C61D7739E328</key>
+		<key>96C6D1DC-7685-4A01-A6A4-09CDF12B8FB1</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -623,39 +1743,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>D957614B-98EB-4895-966B-C61D7739E328.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>WumpusWorld project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>WumpusWorld</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build WumpusWorld</string>
-			<key>timeStartedRecording</key>
-			<real>598588958.30139101</real>
-			<key>timeStoppedRecording</key>
-			<real>598588959.41016996</real>
-			<key>title</key>
-			<string>Build WumpusWorld</string>
-			<key>uniqueIdentifier</key>
-			<string>D957614B-98EB-4895-966B-C61D7739E328</string>
-		</dict>
-		<key>E84EDCA2-1DCB-4566-AEDC-B184C08A209E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>E84EDCA2-1DCB-4566-AEDC-B184C08A209E.xcactivitylog</string>
+			<string>96C6D1DC-7685-4A01-A6A4-09CDF12B8FB1.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -670,15 +1758,15 @@
 			<key>signature</key>
 			<string>Build WumpusWorld</string>
 			<key>timeStartedRecording</key>
-			<real>598596608.77411306</real>
+			<real>598619207.47439694</real>
 			<key>timeStoppedRecording</key>
-			<real>598596611.26255298</real>
+			<real>598619207.53646696</real>
 			<key>title</key>
 			<string>Build WumpusWorld</string>
 			<key>uniqueIdentifier</key>
-			<string>E84EDCA2-1DCB-4566-AEDC-B184C08A209E</string>
+			<string>96C6D1DC-7685-4A01-A6A4-09CDF12B8FB1</string>
 		</dict>
-		<key>EE89C4E8-23B9-48AA-B682-5643EF3DEAFF</key>
+		<key>986101AB-72E8-4DE1-AAC0-F55BB7EB8FA5</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -687,11 +1775,11 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>EE89C4E8-23B9-48AA-B682-5643EF3DEAFF.xcactivitylog</string>
+			<string>986101AB-72E8-4DE1-AAC0-F55BB7EB8FA5.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>WumpusWorld project</string>
@@ -702,13 +1790,1325 @@
 			<key>signature</key>
 			<string>Build WumpusWorld</string>
 			<key>timeStartedRecording</key>
-			<real>598588918.55324101</real>
+			<real>598620313.03851998</real>
 			<key>timeStoppedRecording</key>
-			<real>598588920.87660098</real>
+			<real>598620313.18015206</real>
 			<key>title</key>
 			<string>Build WumpusWorld</string>
 			<key>uniqueIdentifier</key>
-			<string>EE89C4E8-23B9-48AA-B682-5643EF3DEAFF</string>
+			<string>986101AB-72E8-4DE1-AAC0-F55BB7EB8FA5</string>
+		</dict>
+		<key>987701F7-6621-4CC8-93D0-321C49A50DB4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>987701F7-6621-4CC8-93D0-321C49A50DB4.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619384.19731998</real>
+			<key>timeStoppedRecording</key>
+			<real>598619387.26538706</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>987701F7-6621-4CC8-93D0-321C49A50DB4</string>
+		</dict>
+		<key>9B7EE2DA-D226-4ACE-9AEC-25BDF922FDF7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9B7EE2DA-D226-4ACE-9AEC-25BDF922FDF7.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619181.77330995</real>
+			<key>timeStoppedRecording</key>
+			<real>598619183.57513106</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>9B7EE2DA-D226-4ACE-9AEC-25BDF922FDF7</string>
+		</dict>
+		<key>A22651E8-4B07-4A63-B6B0-1D6D27FF8538</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A22651E8-4B07-4A63-B6B0-1D6D27FF8538.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598620393.78233397</real>
+			<key>timeStoppedRecording</key>
+			<real>598620393.84023297</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>A22651E8-4B07-4A63-B6B0-1D6D27FF8538</string>
+		</dict>
+		<key>AACCACD7-D4AE-404C-91B9-E681D9BC5657</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AACCACD7-D4AE-404C-91B9-E681D9BC5657.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598635449.44497705</real>
+			<key>timeStoppedRecording</key>
+			<real>598635449.73689401</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>AACCACD7-D4AE-404C-91B9-E681D9BC5657</string>
+		</dict>
+		<key>B39A658B-380C-470E-9846-196C3722E33A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B39A658B-380C-470E-9846-196C3722E33A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619331.99579704</real>
+			<key>timeStoppedRecording</key>
+			<real>598619332.15420902</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>B39A658B-380C-470E-9846-196C3722E33A</string>
+		</dict>
+		<key>B76EB4C4-26FB-4DED-95C4-F1DEB2B9E894</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B76EB4C4-26FB-4DED-95C4-F1DEB2B9E894.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619520.44995797</real>
+			<key>timeStoppedRecording</key>
+			<real>598619521.83889401</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>B76EB4C4-26FB-4DED-95C4-F1DEB2B9E894</string>
+		</dict>
+		<key>BC0D8C6C-4F87-4C2B-9DBB-A4E75C18FEBF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BC0D8C6C-4F87-4C2B-9DBB-A4E75C18FEBF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619708.641909</real>
+			<key>timeStoppedRecording</key>
+			<real>598619712.07220805</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>BC0D8C6C-4F87-4C2B-9DBB-A4E75C18FEBF</string>
+		</dict>
+		<key>BE4BA257-CE9D-41A6-920C-27A67D486497</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BE4BA257-CE9D-41A6-920C-27A67D486497.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598633778.26321006</real>
+			<key>timeStoppedRecording</key>
+			<real>598633782.22387397</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>BE4BA257-CE9D-41A6-920C-27A67D486497</string>
+		</dict>
+		<key>C32354DE-02C9-41B0-B30F-04A3F363BE2E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C32354DE-02C9-41B0-B30F-04A3F363BE2E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598618985.72715998</real>
+			<key>timeStoppedRecording</key>
+			<real>598618986.61554003</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>C32354DE-02C9-41B0-B30F-04A3F363BE2E</string>
+		</dict>
+		<key>C365E70A-F846-4A7C-8AE4-CC4579DD6F15</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C365E70A-F846-4A7C-8AE4-CC4579DD6F15.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619472.80659103</real>
+			<key>timeStoppedRecording</key>
+			<real>598619473.84834003</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>C365E70A-F846-4A7C-8AE4-CC4579DD6F15</string>
+		</dict>
+		<key>C4C6573F-4801-4F1F-A7D4-EEA35F05F191</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C4C6573F-4801-4F1F-A7D4-EEA35F05F191.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619565.712327</real>
+			<key>timeStoppedRecording</key>
+			<real>598619566.81784904</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>C4C6573F-4801-4F1F-A7D4-EEA35F05F191</string>
+		</dict>
+		<key>C715C46B-B780-46C2-98A2-44BF8EB8CA66</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C715C46B-B780-46C2-98A2-44BF8EB8CA66.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598635131.77483106</real>
+			<key>timeStoppedRecording</key>
+			<real>598635133.01545203</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>C715C46B-B780-46C2-98A2-44BF8EB8CA66</string>
+		</dict>
+		<key>C92567BF-585E-4B22-A287-1404BC57E04B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C92567BF-585E-4B22-A287-1404BC57E04B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619752.50367904</real>
+			<key>timeStoppedRecording</key>
+			<real>598619754.16944599</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>C92567BF-585E-4B22-A287-1404BC57E04B</string>
+		</dict>
+		<key>C9EAD3F7-C446-4091-99E6-6EE46EEFDB1F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C9EAD3F7-C446-4091-99E6-6EE46EEFDB1F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598620116.39821196</real>
+			<key>timeStoppedRecording</key>
+			<real>598620117.76367104</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>C9EAD3F7-C446-4091-99E6-6EE46EEFDB1F</string>
+		</dict>
+		<key>CB93914B-ECCB-4E29-9D5A-B6D726825814</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CB93914B-ECCB-4E29-9D5A-B6D726825814.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598634764.54746306</real>
+			<key>timeStoppedRecording</key>
+			<real>598634765.46703696</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>CB93914B-ECCB-4E29-9D5A-B6D726825814</string>
+		</dict>
+		<key>CF16028B-BDAF-4AB5-8F11-D7A507F4C7BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CF16028B-BDAF-4AB5-8F11-D7A507F4C7BE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598635398.39317596</real>
+			<key>timeStoppedRecording</key>
+			<real>598635400.70054996</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>CF16028B-BDAF-4AB5-8F11-D7A507F4C7BE</string>
+		</dict>
+		<key>D86D89E7-FFCC-4795-819E-7CA26E05F8D9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D86D89E7-FFCC-4795-819E-7CA26E05F8D9.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619467.55121696</real>
+			<key>timeStoppedRecording</key>
+			<real>598619469.49904501</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>D86D89E7-FFCC-4795-819E-7CA26E05F8D9</string>
+		</dict>
+		<key>DA3DE859-FBB2-4476-BA20-B03A983F413A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DA3DE859-FBB2-4476-BA20-B03A983F413A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598620372.21797299</real>
+			<key>timeStoppedRecording</key>
+			<real>598620372.29312694</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>DA3DE859-FBB2-4476-BA20-B03A983F413A</string>
+		</dict>
+		<key>DA4B3C69-4CF7-4207-903A-A0663309BDF9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DA4B3C69-4CF7-4207-903A-A0663309BDF9.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598618914.53976905</real>
+			<key>timeStoppedRecording</key>
+			<real>598618915.46739197</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>DA4B3C69-4CF7-4207-903A-A0663309BDF9</string>
+		</dict>
+		<key>DA8574B8-5150-4CDF-9BD7-05CAB719C070</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DA8574B8-5150-4CDF-9BD7-05CAB719C070.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598620084.71302795</real>
+			<key>timeStoppedRecording</key>
+			<real>598620086.71364605</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>DA8574B8-5150-4CDF-9BD7-05CAB719C070</string>
+		</dict>
+		<key>DABA24DE-7EFD-4075-AA74-41B05DB4527C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DABA24DE-7EFD-4075-AA74-41B05DB4527C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619755.55687702</real>
+			<key>timeStoppedRecording</key>
+			<real>598619755.61743903</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>DABA24DE-7EFD-4075-AA74-41B05DB4527C</string>
+		</dict>
+		<key>DC38ADE6-FBA9-47A3-BE61-BD6226DCB825</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DC38ADE6-FBA9-47A3-BE61-BD6226DCB825.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619254.43218696</real>
+			<key>timeStoppedRecording</key>
+			<real>598619255.42574596</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>DC38ADE6-FBA9-47A3-BE61-BD6226DCB825</string>
+		</dict>
+		<key>DF4412C5-8EFD-4FAE-981C-4C40A041A035</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DF4412C5-8EFD-4FAE-981C-4C40A041A035.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598620391.12660599</real>
+			<key>timeStoppedRecording</key>
+			<real>598620392.262743</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>DF4412C5-8EFD-4FAE-981C-4C40A041A035</string>
+		</dict>
+		<key>E4CECEAE-EC66-4279-842A-28D4D63F9231</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E4CECEAE-EC66-4279-842A-28D4D63F9231.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598635600.30210304</real>
+			<key>timeStoppedRecording</key>
+			<real>598635601.70968795</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>E4CECEAE-EC66-4279-842A-28D4D63F9231</string>
+		</dict>
+		<key>E4DE9A25-B469-47DB-8668-72553C9A7447</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E4DE9A25-B469-47DB-8668-72553C9A7447.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598634920.95412898</real>
+			<key>timeStoppedRecording</key>
+			<real>598634921.03971803</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>E4DE9A25-B469-47DB-8668-72553C9A7447</string>
+		</dict>
+		<key>E6631F2B-BEEB-4712-94A1-182A3DF99348</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E6631F2B-BEEB-4712-94A1-182A3DF99348.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598635277.35261703</real>
+			<key>timeStoppedRecording</key>
+			<real>598635278.40571904</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>E6631F2B-BEEB-4712-94A1-182A3DF99348</string>
+		</dict>
+		<key>E836D5E5-70AE-4C18-A253-8454FFCC267C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E836D5E5-70AE-4C18-A253-8454FFCC267C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598618935.51351202</real>
+			<key>timeStoppedRecording</key>
+			<real>598618936.47590005</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>E836D5E5-70AE-4C18-A253-8454FFCC267C</string>
+		</dict>
+		<key>EA9E8A2E-5AE2-42BA-AF42-3034FE6DDD60</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EA9E8A2E-5AE2-42BA-AF42-3034FE6DDD60.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598635642.68586004</real>
+			<key>timeStoppedRecording</key>
+			<real>598635643.938797</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>EA9E8A2E-5AE2-42BA-AF42-3034FE6DDD60</string>
+		</dict>
+		<key>EACA260E-D9AB-45C7-8652-A0CC275E1724</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EACA260E-D9AB-45C7-8652-A0CC275E1724.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598634129.33010495</real>
+			<key>timeStoppedRecording</key>
+			<real>598634129.48716104</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>EACA260E-D9AB-45C7-8652-A0CC275E1724</string>
+		</dict>
+		<key>EBFF1870-8BF5-4C61-BE94-C3B78501A7EA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EBFF1870-8BF5-4C61-BE94-C3B78501A7EA.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598635300.63875902</real>
+			<key>timeStoppedRecording</key>
+			<real>598635300.72104895</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>EBFF1870-8BF5-4C61-BE94-C3B78501A7EA</string>
+		</dict>
+		<key>EC0BAA13-EC63-4281-9C7B-EB13A59E4999</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EC0BAA13-EC63-4281-9C7B-EB13A59E4999.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619404.492486</real>
+			<key>timeStoppedRecording</key>
+			<real>598619405.71687305</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>EC0BAA13-EC63-4281-9C7B-EB13A59E4999</string>
+		</dict>
+		<key>EC0C23ED-F020-4199-B3AA-C61A5B1F91CB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EC0C23ED-F020-4199-B3AA-C61A5B1F91CB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598634025.04314804</real>
+			<key>timeStoppedRecording</key>
+			<real>598634025.23047602</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>EC0C23ED-F020-4199-B3AA-C61A5B1F91CB</string>
+		</dict>
+		<key>EEE8EA9F-F5FE-4FDD-B1D0-8A4F4D21E3E6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EEE8EA9F-F5FE-4FDD-B1D0-8A4F4D21E3E6.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598634033.84582198</real>
+			<key>timeStoppedRecording</key>
+			<real>598634035.77853501</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>EEE8EA9F-F5FE-4FDD-B1D0-8A4F4D21E3E6</string>
+		</dict>
+		<key>EFCD6AEE-A4ED-4C6D-B1F0-767B387A6108</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EFCD6AEE-A4ED-4C6D-B1F0-767B387A6108.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619860.58443499</real>
+			<key>timeStoppedRecording</key>
+			<real>598619860.65251994</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>EFCD6AEE-A4ED-4C6D-B1F0-767B387A6108</string>
+		</dict>
+		<key>F038E83C-949D-42DF-84E2-50E9484506A7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F038E83C-949D-42DF-84E2-50E9484506A7.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619328.42386305</real>
+			<key>timeStoppedRecording</key>
+			<real>598619330.58005095</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>F038E83C-949D-42DF-84E2-50E9484506A7</string>
+		</dict>
+		<key>F1CB8E26-A62A-4DEB-997C-BFADDECF2BF7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F1CB8E26-A62A-4DEB-997C-BFADDECF2BF7.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619555.51482403</real>
+			<key>timeStoppedRecording</key>
+			<real>598619556.37004197</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>F1CB8E26-A62A-4DEB-997C-BFADDECF2BF7</string>
+		</dict>
+		<key>F2E2960E-52F0-4A9C-8CE1-6C0379DB1626</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F2E2960E-52F0-4A9C-8CE1-6C0379DB1626.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619926.117715</real>
+			<key>timeStoppedRecording</key>
+			<real>598619926.23807597</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>F2E2960E-52F0-4A9C-8CE1-6C0379DB1626</string>
+		</dict>
+		<key>F9CEE20B-45BB-4D1F-9383-F74D50DBDE5C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F9CEE20B-45BB-4D1F-9383-F74D50DBDE5C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619831.34977806</real>
+			<key>timeStoppedRecording</key>
+			<real>598619833.50954199</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>F9CEE20B-45BB-4D1F-9383-F74D50DBDE5C</string>
+		</dict>
+		<key>FC2769A3-9FB5-4EC9-B24B-8BDC10B7FF56</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FC2769A3-9FB5-4EC9-B24B-8BDC10B7FF56.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598633991.32509398</real>
+			<key>timeStoppedRecording</key>
+			<real>598633993.19551098</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>FC2769A3-9FB5-4EC9-B24B-8BDC10B7FF56</string>
+		</dict>
+		<key>FD41B67A-9958-4615-9F2E-1BA66786DA10</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FD41B67A-9958-4615-9F2E-1BA66786DA10.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598619613.19515204</real>
+			<key>timeStoppedRecording</key>
+			<real>598619614.441993</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>FD41B67A-9958-4615-9F2E-1BA66786DA10</string>
+		</dict>
+		<key>FF66CF6F-D5A4-451B-A11E-F5E971A50539</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FF66CF6F-D5A4-451B-A11E-F5E971A50539.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WumpusWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WumpusWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WumpusWorld</string>
+			<key>timeStartedRecording</key>
+			<real>598620257.97424603</real>
+			<key>timeStoppedRecording</key>
+			<real>598620258.05043197</real>
+			<key>title</key>
+			<string>Build WumpusWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>FF66CF6F-D5A4-451B-A11E-F5E971A50539</string>
 		</dict>
 	</dict>
 </dict>

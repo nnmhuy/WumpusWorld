@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>C99A52B9-2CB1-4E9A-A843-4A7F4796ADE2</key>
+		<key>9D2CCCDE-17D1-4FFD-9AA0-042004843095</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
 			<key>fileName</key>
-			<string>C99A52B9-2CB1-4E9A-A843-4A7F4796ADE2.xcactivitylog</string>
+			<string>9D2CCCDE-17D1-4FFD-9AA0-042004843095.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -24,13 +24,13 @@
 			<key>signature</key>
 			<string>WumpusWorld-ggpjlbqcdjotunbbbiwprvdufqxs</string>
 			<key>timeStartedRecording</key>
-			<real>598596929.05107105</real>
+			<real>598635642.72566903</real>
 			<key>timeStoppedRecording</key>
-			<real>598596931.260373</real>
+			<real>598635643.64124405</real>
 			<key>title</key>
 			<string>Build target WumpusWorld</string>
 			<key>uniqueIdentifier</key>
-			<string>C99A52B9-2CB1-4E9A-A843-4A7F4796ADE2</string>
+			<string>9D2CCCDE-17D1-4FFD-9AA0-042004843095</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
