@@ -9,12 +9,12 @@
 #include "Map.hpp"
 
 void Map::readMap(string filename) {
-    mapSize = 10;
     ifstream in;
     in.open(filename.c_str());
     string s;
+    in>>mapSize;
     int j;
-    for (int i=10; i>=1; i--) {
+    for (int i=mapSize; i>=1; i--) {
         in>>s;
         j = 1;
         m[j][i].setFalse();

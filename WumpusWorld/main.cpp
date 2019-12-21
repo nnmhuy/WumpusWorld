@@ -14,8 +14,8 @@ using namespace std;
 
 int main(int argc, const char * argv[]) {
     Map map1;
-    map1.readMap("map5.txt");
-    Logger::mFilename = "logical-result5.txt";
+    map1.readMap("map.txt");
+    Logger::mFilename = "logical-result.txt";
     LogicalAgent la(map1.startPoint, map1.mapSize, &map1);
     la.startAgent();
 //    char c;
