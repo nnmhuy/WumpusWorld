@@ -45,10 +45,11 @@ struct Coordinate {
         this->x = x; this->y = y;
     }
     string stringify() {
-        char xS[5], yS[5];
-        itoa(x, xS, 10);
-        itoa(y, yS, 10);
-        return string(xS) + ", " + string(yS);
+//        char xS[5], yS[5];
+//        itoa(x, xS, 10);
+//        itoa(y, yS, 10);
+//        return string(xS) + ", " + string(yS);
+        return to_string(x) + ", " + to_string(y);
     }
 };
 

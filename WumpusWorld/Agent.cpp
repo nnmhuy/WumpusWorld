@@ -49,9 +49,9 @@ Room Agent::enterRoom() {
         newRoom.G = 0;
         string message = "Yay, There is gold in Room " + p.stringify();
         output->println(message);
-        char pointString[5];
-        itoa(point, pointString, 10);
-        message = "The current score is: " + string(pointString);
+//        char pointString[5];
+//        itoa(point, pointString, 10);
+        message = "The current score is: " + to_string(point);
         output->println(message);
     } else currentGold = false;
     return newRoom;
@@ -99,7 +99,7 @@ bool Agent::validIndex(Coordinate x) {
 }
 
 void Agent::draw() {
-    if (system("CLS")) system("clear");
+//    if (system("CLS")) system("clear");
     for (int i=mapSize; i>=1; i--) {
         for (int j=1; j<=mapSize; j++) {
             if (visited[j][i] == false) {

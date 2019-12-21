@@ -99,9 +99,9 @@ void LogicalAgent::makeMove() {
 
 void LogicalAgent::returnHome() {
     string message;
-    char pointString[5];
-    itoa(point, pointString, 10);
-    message = "The final score is: " + string(pointString);
+//    char pointString[5];
+//    itoa(point, pointString, 10);
+    message = "The final score is: " + to_string(point);
     output->println(message);
     moveLeft = -1;
 }
@@ -258,7 +258,7 @@ bool LogicalAgent::informG(bool state, Coordinate x) {
     if (state) {
         string message = "Yay, There is gold in Room " + x.stringify();
         output->println(message);
-        message = "The current point is " + point;
+        message = "The current point is " + to_string(point);
         output->println(message);
     }
     return true;

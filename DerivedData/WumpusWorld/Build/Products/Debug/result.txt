@@ -298,7 +298,7 @@ The nearest safe Room is 9, 9
 TURN_RIGHT
 FORWARD (Enter Room 9, 9)
 Yay, There is gold in Room 9, 9
-ÿ
+The current score is: 100
 Room 9, 9 does not have any breeze
 Room 9, 8 does not have any pit
 Room 9, 9 does not have any stench

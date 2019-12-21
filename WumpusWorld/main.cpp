@@ -18,7 +18,7 @@ int main(int argc, const char * argv[]) {
     Logger::mFilename = "result.txt";
     LogicalAgent la(map1.startPoint, map1.mapSize, &map1);
     la.startAgent();
-    char c;
+//    char c;
     while (la.isEnd() == false) {
         la.draw();
         cin.get();
