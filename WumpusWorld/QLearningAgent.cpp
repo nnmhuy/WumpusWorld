@@ -35,17 +35,6 @@ void QLearningAgent::makeMove() {
         cout << "$\nFOUND GOLD\n$\n";
     }
     currentDirection = nextState.s.direction;
-    if (nextState.isEnd) {
-        moveLeft = -1;
-    }
-    if (nextState.isEnd) {
-        moveLeft = -1;
-        if (!(nextState.s.p == cMap.startPoint)) {
-            cout << "YEAH\n";
-        } else {
-            cout << "CON GA\n";
-        }
-    }
     cout << point << " ";
     switch (bestAction) {
         case 0:
@@ -65,6 +54,15 @@ void QLearningAgent::makeMove() {
             cout << "EXIT\n";
             break;
     }
+    
+    if (nextState.isEnd) {
+        moveLeft = -1;
+        if (!(nextState.s.p == cMap.startPoint)) {
+            cout << "EXIT SUCCESSFULLY\n";
+        } else {
+            cout << "WRONG EXIT\n";
+        }
+    }
 }
 
 void QLearningAgent::train() {
@@ -75,9 +73,6 @@ void QLearningAgent::train() {
         currentState.s = startState;
         currentState.isEnd = false;
         while (!currentState.isEnd) {
-            if (currentState.s.p.x == 10) {
-                cout << "test";
-            }
             NextStateByAction maxRewardAction;
             int bestAction = 0;
             maxRewardAction.reward = -1e9;
@@ -107,8 +102,6 @@ void QLearningAgent::train() {
             for (int action  = 0; action <= 4; ++action) {
                 bestValue = max(bestValue, getQ(maxRewardAction.s, action));
             }
-
-//            setQ(currentState.s, bestAction, currentValue + learning_rate * (maxRewardAction.reward + discount_factor * bestValue - currentValue));
             
             setQ(currentState.s, bestAction, (1.0 - learning_rate) * currentValue + learning_rate * (maxRewardAction.reward + discount_factor * bestValue));
             

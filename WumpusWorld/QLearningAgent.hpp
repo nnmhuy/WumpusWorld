@@ -22,7 +22,7 @@
 #define Act second
 
 const double epsilon = 0.2;
-const double learning_rate = 0.5;
+const double learning_rate = 0.2;
 const double discount_factor = 0.9;
 const double number_of_iteration = 100000;
 
