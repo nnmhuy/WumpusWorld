@@ -101,6 +101,9 @@ void LogicalAgent::returnHome() {
     string message;
 //    char pointString[5];
 //    itoa(point, pointString, 10);
+    point += 10;
+    message = "The agent climb out the cave";
+    output->println(message);
     message = "The final score is: " + to_string(point);
     output->println(message);
     moveLeft = -1;

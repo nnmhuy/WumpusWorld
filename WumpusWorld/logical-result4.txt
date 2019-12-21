@@ -1,0 +1,305 @@
+We start at Room 2, 9
+Room 2, 9 does not have any breeze
+Room 1, 9 does not have any pit
+Room 2, 10 does not have any pit
+Room 3, 9 does not have any pit
+Room 2, 8 does not have any pit
+Room 2, 9 does not have any pit
+Room 2, 9 does not have any stench
+Room 1, 9 does not have any Wumpus
+Room 1, 9 is safe
+Room 2, 10 does not have any Wumpus
+Room 2, 10 is safe
+Room 3, 9 does not have any Wumpus
+Room 3, 9 is safe
+Room 2, 8 does not have any Wumpus
+Room 2, 8 is safe
+Room 2, 9 does not have any Wumpus
+Room 2, 9 is safe
+The nearest safe Room is 1, 9
+TURN_RIGHT
+TURN_RIGHT
+FORWARD (Enter Room 1, 9)
+Room 1, 9 does not have any breeze
+Room 1, 10 does not have any pit
+Room 1, 8 does not have any pit
+Room 1, 9 does not have any stench
+Room 1, 10 does not have any Wumpus
+Room 1, 10 is safe
+Room 1, 8 does not have any Wumpus
+Room 1, 8 is safe
+The nearest safe Room is 1, 10
+TURN_RIGHT
+FORWARD (Enter Room 1, 10)
+Room 1, 10 does not have any breeze
+Room 1, 10 does not have any stench
+The nearest safe Room is 2, 10
+TURN_RIGHT
+FORWARD (Enter Room 2, 10)
+Room 2, 10 does not have any breeze
+Room 3, 10 does not have any pit
+Room 2, 10 does not have any stench
+Room 3, 10 does not have any Wumpus
+Room 3, 10 is safe
+The nearest safe Room is 3, 10
+FORWARD (Enter Room 3, 10)
+Room 3, 10 does not have any breeze
+Room 4, 10 does not have any pit
+Room 3, 10 does not have any stench
+Room 4, 10 does not have any Wumpus
+Room 4, 10 is safe
+The nearest safe Room is 4, 10
+FORWARD (Enter Room 4, 10)
+Room 4, 10 does not have any breeze
+Room 5, 10 does not have any pit
+Room 4, 9 does not have any pit
+Room 4, 10 does not have any stench
+Room 5, 10 does not have any Wumpus
+Room 5, 10 is safe
+Room 4, 9 does not have any Wumpus
+Room 4, 9 is safe
+The nearest safe Room is 5, 10
+FORWARD (Enter Room 5, 10)
+Room 5, 10 has breeze
+Room 5, 10 does not have any stench
+Room 6, 10 does not have any Wumpus
+Room 5, 9 does not have any Wumpus
+The nearest safe Room is 4, 9
+TURN_RIGHT
+TURN_RIGHT
+FORWARD (Enter Room 4, 10)
+TURN_LEFT
+FORWARD (Enter Room 4, 9)
+Room 4, 9 has breeze
+Room 4, 9 does not have any stench
+Room 4, 8 does not have any Wumpus
+The nearest safe Room is 3, 9
+TURN_RIGHT
+FORWARD (Enter Room 3, 9)
+Room 3, 9 does not have any breeze
+Room 3, 8 does not have any pit
+Room 3, 9 does not have any stench
+Room 3, 8 does not have any Wumpus
+Room 3, 8 is safe
+The nearest safe Room is 3, 8
+TURN_LEFT
+FORWARD (Enter Room 3, 8)
+Room 3, 8 has breeze
+Room 3, 8 does not have any stench
+Room 3, 7 does not have any Wumpus
+The nearest safe Room is 2, 8
+TURN_RIGHT
+FORWARD (Enter Room 2, 8)
+Room 2, 8 does not have any breeze
+Room 2, 7 does not have any pit
+Room 2, 8 does not have any stench
+Room 2, 7 does not have any Wumpus
+Room 2, 7 is safe
+The nearest safe Room is 1, 8
+FORWARD (Enter Room 1, 8)
+Room 1, 8 does not have any breeze
+Room 1, 7 does not have any pit
+Room 1, 8 does not have any stench
+Room 1, 7 does not have any Wumpus
+Room 1, 7 is safe
+The nearest safe Room is 1, 7
+TURN_LEFT
+FORWARD (Enter Room 1, 7)
+Room 1, 7 does not have any breeze
+Room 1, 6 does not have any pit
+Room 1, 7 does not have any stench
+Room 1, 6 does not have any Wumpus
+Room 1, 6 is safe
+The nearest safe Room is 2, 7
+TURN_LEFT
+FORWARD (Enter Room 2, 7)
+Room 2, 7 does not have any breeze
+Room 3, 7 does not have any pit
+Room 3, 7 is safe
+Because 3 other adjacent Rooms of Room 3, 8 do not have pit
+So, Room 4, 8 has a pit
+Room 5, 8 has breeze
+Room 4, 7 has breeze
+Room 2, 6 does not have any pit
+Room 2, 7 does not have any stench
+Room 2, 6 does not have any Wumpus
+Room 2, 6 is safe
+The nearest safe Room is 3, 7
+FORWARD (Enter Room 3, 7)
+Room 3, 7 has breeze
+Room 3, 7 does not have any stench
+Room 4, 7 does not have any Wumpus
+Room 3, 6 does not have any Wumpus
+The nearest safe Room is 2, 6
+TURN_RIGHT
+TURN_RIGHT
+FORWARD (Enter Room 2, 7)
+TURN_LEFT
+FORWARD (Enter Room 2, 6)
+Room 2, 6 has breeze
+Room 2, 6 does not have any stench
+Room 2, 5 does not have any Wumpus
+The nearest safe Room is 1, 6
+TURN_RIGHT
+FORWARD (Enter Room 1, 6)
+Room 1, 6 does not have any breeze
+Room 1, 5 does not have any pit
+Room 1, 6 does not have any stench
+Room 1, 5 does not have any Wumpus
+Room 1, 5 is safe
+The nearest safe Room is 1, 5
+TURN_LEFT
+FORWARD (Enter Room 1, 5)
+Room 1, 5 does not have any breeze
+Room 2, 5 does not have any pit
+Room 2, 5 is safe
+Because 3 other adjacent Rooms of Room 2, 6 do not have pit
+So, Room 3, 6 has a pit
+Room 4, 6 has breeze
+Room 3, 5 has breeze
+Room 1, 4 does not have any pit
+Room 1, 5 does not have any stench
+Room 1, 4 does not have any Wumpus
+Room 1, 4 is safe
+The nearest safe Room is 2, 5
+TURN_LEFT
+FORWARD (Enter Room 2, 5)
+Room 2, 5 does not have any breeze
+Room 3, 5 does not have any pit
+Room 2, 4 does not have any pit
+Room 2, 5 does not have any stench
+Room 3, 5 does not have any Wumpus
+Room 3, 5 is safe
+Room 2, 4 does not have any Wumpus
+Room 2, 4 is safe
+The nearest safe Room is 3, 5
+FORWARD (Enter Room 3, 5)
+Yay, There is gold in Room 3, 5
+The current score is: 100
+Room 3, 5 does not have any stench
+Room 4, 5 does not have any Wumpus
+Room 3, 4 does not have any Wumpus
+The nearest safe Room is 2, 4
+TURN_RIGHT
+TURN_RIGHT
+FORWARD (Enter Room 2, 5)
+TURN_LEFT
+FORWARD (Enter Room 2, 4)
+Room 2, 4 has breeze
+Room 2, 4 does not have any stench
+Room 2, 3 does not have any Wumpus
+The nearest safe Room is 1, 4
+TURN_RIGHT
+FORWARD (Enter Room 1, 4)
+Room 1, 4 does not have any breeze
+Room 1, 3 does not have any pit
+Room 1, 4 does not have any stench
+Room 1, 3 does not have any Wumpus
+Room 1, 3 is safe
+The nearest safe Room is 1, 3
+TURN_LEFT
+FORWARD (Enter Room 1, 3)
+Room 1, 3 does not have any breeze
+Room 2, 3 does not have any pit
+Room 2, 3 is safe
+Because 3 other adjacent Rooms of Room 2, 4 do not have pit
+So, Room 3, 4 has a pit
+Room 4, 4 has breeze
+Room 3, 3 has breeze
+Room 1, 2 does not have any pit
+Room 1, 3 does not have any stench
+Room 1, 2 does not have any Wumpus
+Room 1, 2 is safe
+The nearest safe Room is 2, 3
+TURN_LEFT
+FORWARD (Enter Room 2, 3)
+Room 2, 3 does not have any breeze
+Room 3, 3 does not have any pit
+Room 2, 2 does not have any pit
+Room 2, 3 does not have any stench
+Room 3, 3 does not have any Wumpus
+Room 3, 3 is safe
+Room 2, 2 does not have any Wumpus
+Room 2, 2 is safe
+The nearest safe Room is 3, 3
+FORWARD (Enter Room 3, 3)
+Room 3, 3 does not have any stench
+Room 4, 3 does not have any Wumpus
+Room 3, 2 does not have any Wumpus
+The nearest safe Room is 2, 2
+TURN_RIGHT
+TURN_RIGHT
+FORWARD (Enter Room 2, 3)
+TURN_LEFT
+FORWARD (Enter Room 2, 2)
+Room 2, 2 does not have any breeze
+Room 3, 2 does not have any pit
+Room 3, 2 is safe
+Room 2, 1 does not have any pit
+Room 2, 2 does not have any stench
+Room 2, 1 does not have any Wumpus
+Room 2, 1 is safe
+The nearest safe Room is 1, 2
+TURN_RIGHT
+FORWARD (Enter Room 1, 2)
+Yay, There is gold in Room 1, 2
+The current score is: 200
+Room 1, 2 has breeze
+Room 1, 2 does not have any stench
+Room 1, 1 does not have any Wumpus
+The nearest safe Room is 3, 2
+TURN_RIGHT
+TURN_RIGHT
+FORWARD (Enter Room 2, 2)
+FORWARD (Enter Room 3, 2)
+Room 3, 2 does not have any breeze
+Room 4, 2 does not have any pit
+Room 3, 1 does not have any pit
+Room 3, 2 has stench
+The nearest safe Room is 2, 1
+TURN_RIGHT
+TURN_RIGHT
+FORWARD (Enter Room 2, 2)
+TURN_LEFT
+FORWARD (Enter Room 2, 1)
+Yay, There is gold in Room 2, 1
+The current score is: 300
+Room 2, 1 has breeze
+Room 2, 1 does not have any stench
+Room 3, 1 does not have any Wumpus
+Room 3, 1 is safe
+Because 3 other adjacent Rooms of Room 3, 2 do not have Wumpus
+So, Room 4, 2 has a Wumpus
+Room 4, 3 has stench
+Room 5, 2 has stench
+Room 4, 1 has stench
+The nearest safe Room is 3, 1
+TURN_LEFT
+FORWARD (Enter Room 3, 1)
+Room 3, 1 does not have any breeze
+Room 4, 1 does not have any pit
+Room 3, 1 does not have any stench
+Room 4, 1 does not have any Wumpus
+Room 4, 1 is safe
+The nearest safe Room is 4, 1
+FORWARD (Enter Room 4, 1)
+Yay, There is gold in Room 4, 1
+The current score is: 400
+Room 4, 1 does not have any breeze
+Room 5, 1 does not have any pit
+There are not any safe Rooms to go, let's return home
+TURN_RIGHT
+TURN_RIGHT
+FORWARD (Enter Room 3, 1)
+FORWARD (Enter Room 2, 1)
+TURN_RIGHT
+FORWARD (Enter Room 2, 2)
+FORWARD (Enter Room 2, 3)
+FORWARD (Enter Room 2, 4)
+FORWARD (Enter Room 2, 5)
+FORWARD (Enter Room 2, 6)
+FORWARD (Enter Room 2, 7)
+FORWARD (Enter Room 2, 8)
+FORWARD (Enter Room 2, 9)
+The agent climb out the cave
+The final score is: 410

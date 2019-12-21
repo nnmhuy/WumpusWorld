@@ -1,0 +1,13 @@
+We start at Room 3, 5
+Room 3, 5 does not have any breeze
+Room 2, 5 does not have any pit
+Room 3, 6 does not have any pit
+Room 4, 5 does not have any pit
+Room 3, 4 does not have any pit
+Room 3, 5 does not have any pit
+Room 3, 5 has stench
+Room 3, 5 does not have any Wumpus
+Room 3, 5 is safe
+There are not any safe Rooms to go, let's return home
+The agent climb out the cave
+The final score is: 10
